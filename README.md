@@ -115,4 +115,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 Keyur Patel
-[💼](https://www.linkedin.com/in/keyur-patel-6bb224325/)
+
+<a href="https://www.linkedin.com/in/keyur-patel-6bb224325/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
+</a>
